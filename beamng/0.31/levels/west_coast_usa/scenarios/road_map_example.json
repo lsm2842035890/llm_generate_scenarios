@@ -1,0 +1,1 @@
+[{"difficulty":0,"name":"road_map_example","lapConfig":{},"vehicles":{"ego_vehicle":{"startFocus":true,"playerUsable":true}},"authors":"BeamNGpy","prefabs":["levels/west_coast_usa/scenarios/road_map_example.prefab.json"]}]

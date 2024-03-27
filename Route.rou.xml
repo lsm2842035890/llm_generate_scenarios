@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes>
+    <vType accel="1.43" decel="5.54" id="CarA" carFollowModel="ACC" length="5.74" minGap="2.44" maxSpeed="42.76" sigma="0.5" />
+    <vType accel="2.58" decel="5.91" id="CarB" carFollowModel="ACC" length="5.89" minGap="2.3" maxSpeed="45.47" sigma="0.5" />
+    <vType accel="1.73" decel="5.31" id="CarC" carFollowModel="IDM" length="7.46" minGap="2.42" maxSpeed="47.34" sigma="0.5" />
+    <vType accel="1.05" decel="5.37" id="CarD" carFollowModel="IDM" length="5.6" minGap="2.43" maxSpeed="44.14" sigma="0.5" />
+    <vType accel="1.47" decel="5.22" id="CarE" carFollowModel="ACC" length="7.37" minGap="2.14" maxSpeed="40.04" sigma="0.5" />
+    <route id="route01" edges="1fi" />
+    <route id="route02" edges="4fi" />
+    <route id="route03" edges="2fi" />
+    <route id="route04" edges="5fi" />
+    <route id="route05" edges="0fi" />
+    <vehicle depart="0" id="veh0" route="route04" type="CarA" color="0,0,0" />
+    <vehicle depart="0" id="veh1" route="route01" type="CarB" color="0,0,1" />
+    <vehicle depart="0" id="veh2" route="route03" type="CarC" color="1,0,1" />
+    <vehicle depart="0" id="veh3" route="route02" type="CarD" color="0,1,0" />
+    <vehicle depart="0" id="veh4" route="route01" type="CarE" color="0,0,1" />
+    <flow id="flo0" type="CarC" route="route01" number="3" period="1" departPos="0" departLane="random" />
+    <flow id="flo1" type="CarE" route="route01" number="3" period="1" departPos="0" departLane="random" />
+    <flow id="flo2" type="CarB" route="route05" number="3" period="1" departPos="0" departLane="random" />
+</routes>

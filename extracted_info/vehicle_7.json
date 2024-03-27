@@ -1,0 +1,41 @@
+[
+    {
+        "Vehicle ID": "Waymo AV",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": false,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": false
+    },
+    {
+        "Vehicle ID": "SUV",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": true,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": false
+    },
+    {
+        "Vehicle ID": "Passenger Car",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": true,
+        "Right Change Lane": true,
+        "Cut In": true,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": false
+    }
+]

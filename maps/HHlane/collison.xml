@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-03-19 20:26:10 by Eclipse SUMO GUI Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="E:\pycharmcode\pythonProject\maps\HHlane\quickstart.net.xml"/>
+        <route-files value="E:\pycharmcode\pythonProject\maps\HHlane\quickstart.rou.xml"/>
+    </input>
+
+    <output>
+        <collision-output value="maps/HHlane/collison.xml"/>
+    </output>
+
+    <time>
+        <begin value="54000"/>
+        <end value="54900"/>
+    </time>
+
+    <processing>
+        <collision.action value="remove"/>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="49704"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<collisions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/collision_file.xsd">
+    <collision time="54005.00" type="collision" lane="D8_1" pos="8.10" collider="veh11" victim="veh21" colliderType="CarA" victimType="CarB" colliderSpeed="0.00" victimSpeed="2.00"/>
+    <collision time="54005.00" type="collision" lane="D2_1" pos="8.10" collider="veh2" victim="veh12" colliderType="CarA" victimType="CarB" colliderSpeed="0.00" victimSpeed="2.00"/>
+    <collision time="54005.00" type="collision" lane="D4_1" pos="8.10" collider="veh5" victim="veh15" colliderType="CarA" victimType="CarB" colliderSpeed="0.00" victimSpeed="2.00"/>
+    <collision time="54005.00" type="collision" lane="D6_1" pos="8.10" collider="veh8" victim="veh18" colliderType="CarA" victimType="CarB" colliderSpeed="0.00" victimSpeed="2.00"/>
+    <collision time="54007.00" type="collision" lane="D2_1" pos="9.60" collider="veh14" victim="veh13" colliderType="CarB" victimType="CarB" colliderSpeed="2.00" victimSpeed="3.95"/>
+    <collision time="54007.00" type="collision" lane="D4_1" pos="9.60" collider="veh17" victim="veh16" colliderType="CarB" victimType="CarB" colliderSpeed="2.00" victimSpeed="3.95"/>
+    <collision time="54007.00" type="collision" lane="D6_1" pos="9.60" collider="veh20" victim="veh19" colliderType="CarB" victimType="CarB" colliderSpeed="2.00" victimSpeed="3.95"/>
+    <collision time="54007.00" type="collision" lane="D8_1" pos="9.60" collider="veh23" victim="veh22" colliderType="CarB" victimType="CarB" colliderSpeed="2.00" victimSpeed="3.95"/>
+    <collision time="54009.00" type="collision" lane="D2_1" pos="6.10" collider="veh25" victim="veh24" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54009.00" type="collision" lane="D4_1" pos="6.10" collider="veh28" victim="veh27" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54009.00" type="collision" lane="D6_1" pos="6.10" collider="veh31" victim="veh30" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54009.00" type="collision" lane="D8_1" pos="6.10" collider="veh34" victim="veh33" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54011.00" type="collision" lane="D2_1" pos="8.10" collider="veh26" victim="veh36" colliderType="CarC" victimType="CarD" colliderSpeed="2.00" victimSpeed="1.00"/>
+    <collision time="54011.00" type="collision" lane="D4_1" pos="8.10" collider="veh29" victim="veh39" colliderType="CarC" victimType="CarD" colliderSpeed="2.00" victimSpeed="1.00"/>
+    <collision time="54011.00" type="collision" lane="D6_1" pos="8.10" collider="veh32" victim="veh42" colliderType="CarC" victimType="CarD" colliderSpeed="2.00" victimSpeed="1.00"/>
+    <collision time="54011.00" type="collision" lane="D8_1" pos="8.10" collider="veh35" victim="veh45" colliderType="CarC" victimType="CarD" colliderSpeed="2.00" victimSpeed="1.00"/>
+    <collision time="54013.00" type="collision" lane="D2_1" pos="8.60" collider="veh38" victim="veh37" colliderType="CarD" victimType="CarD" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54013.00" type="collision" lane="D4_1" pos="8.60" collider="veh41" victim="veh40" colliderType="CarD" victimType="CarD" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54013.00" type="collision" lane="D6_1" pos="8.60" collider="veh44" victim="veh43" colliderType="CarD" victimType="CarD" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54013.00" type="collision" lane="D8_1" pos="8.60" collider="veh47" victim="veh46" colliderType="CarD" victimType="CarD" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54517.00" type="collision" lane="D8_1" pos="8.56" collider="veh766" victim="veh765" colliderType="CarD" victimType="CarD" colliderSpeed="0.96" victimSpeed="1.84"/>
+    <collision time="54519.00" type="collision" lane="D8_1" pos="8.07" collider="veh777" victim="veh767" colliderType="CarA" victimType="CarD" colliderSpeed="2.97" victimSpeed="1.98"/>
+    <collision time="54522.00" type="collision" lane="D8_1" pos="8.09" collider="veh779" victim="veh789" colliderType="CarA" victimType="CarB" colliderSpeed="0.00" victimSpeed="2.00"/>
+    <collision time="54524.00" type="collision" lane="D8_1" pos="9.60" collider="veh791" victim="veh790" colliderType="CarB" victimType="CarB" colliderSpeed="2.00" victimSpeed="3.95"/>
+    <collision time="54527.00" type="collision" lane="D4_1" pos="7.78" collider="veh772" victim="veh771" colliderType="CarA" victimType="CarA" colliderSpeed="2.68" victimSpeed="4.43"/>
+    <collision time="54529.00" type="collision" lane="D4_1" pos="9.56" collider="veh783" victim="veh773" colliderType="CarB" victimType="CarA" colliderSpeed="1.96" victimSpeed="5.77"/>
+    <collision time="54531.00" type="collision" lane="D4_1" pos="9.59" collider="veh785" victim="veh784" colliderType="CarB" victimType="CarB" colliderSpeed="1.99" victimSpeed="3.97"/>
+    <collision time="54533.00" type="collision" lane="D4_1" pos="6.10" collider="veh796" victim="veh795" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54541.00" type="collision" lane="D6_1" pos="7.73" collider="veh775" victim="veh774" colliderType="CarA" victimType="CarA" colliderSpeed="2.63" victimSpeed="4.54"/>
+    <collision time="54543.00" type="collision" lane="D6_1" pos="9.56" collider="veh786" victim="veh776" colliderType="CarB" victimType="CarA" colliderSpeed="1.96" victimSpeed="5.84"/>
+    <collision time="54545.00" type="collision" lane="D6_1" pos="9.59" collider="veh788" victim="veh787" colliderType="CarB" victimType="CarB" colliderSpeed="1.99" victimSpeed="3.98"/>
+    <collision time="54547.00" type="collision" lane="D6_1" pos="6.10" collider="veh799" victim="veh798" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+    <collision time="54704.00" type="collision" lane="D2_1" pos="7.71" collider="veh769" victim="veh768" colliderType="CarA" victimType="CarA" colliderSpeed="2.61" victimSpeed="4.47"/>
+    <collision time="54706.00" type="collision" lane="D2_1" pos="9.56" collider="veh780" victim="veh770" colliderType="CarB" victimType="CarA" colliderSpeed="1.96" victimSpeed="5.83"/>
+    <collision time="54708.00" type="collision" lane="D2_1" pos="9.59" collider="veh782" victim="veh781" colliderType="CarB" victimType="CarB" colliderSpeed="1.99" victimSpeed="3.98"/>
+    <collision time="54710.00" type="collision" lane="D2_1" pos="6.10" collider="veh793" victim="veh792" colliderType="CarC" victimType="CarC" colliderSpeed="1.00" victimSpeed="2.00"/>
+</collisions>

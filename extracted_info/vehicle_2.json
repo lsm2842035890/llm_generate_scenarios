@@ -1,0 +1,28 @@
+[
+    {
+        "Vehicle ID": "Waymo AV",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": false,
+        "Right Change Lane": true,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": true,
+        "Slow Down": true
+    },
+    {
+        "Vehicle ID": "Passenger Car",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": false,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": true
+    }
+]

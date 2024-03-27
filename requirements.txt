@@ -1,0 +1,4 @@
+traci==1.19.0
+xlrd2==1.3.4
+sumolib==1.19.0
+openai==0.28.0

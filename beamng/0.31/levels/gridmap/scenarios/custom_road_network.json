@@ -1,0 +1,1 @@
+[{"difficulty":0,"name":"custom_road_network","lapConfig":{},"vehicles":{"ego_vehicle":{"startFocus":true,"playerUsable":true}},"authors":"BeamNGpy","prefabs":["levels/GridMap/scenarios/custom_road_network.prefab.json"]}]

@@ -1,0 +1,41 @@
+[
+    {
+        "Vehicle ID": "Waymo AV",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": false,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": false
+    },
+    {
+        "Vehicle ID": "Pickup Truck",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": false,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": false
+    },
+    {
+        "Vehicle ID": "Towing Truck",
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Left Change Lane": false,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": false
+    }
+]

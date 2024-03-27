@@ -1,0 +1,72 @@
+[
+  {
+    "devId": "",
+    "nameDInput": "",
+    "nameWMI": "Microsoft Xbox One Controller",
+    "type": "xinput",
+    "vidpid": "045e02d1"
+  },
+  {
+    "devId": "",
+    "nameDInput": "",
+    "nameWMI": "XBox360 Wired Gamepad",
+    "type": "xinput",
+    "vidpid": "045e02a1"
+  },
+  {
+    "devId": "",
+    "nameDInput": "",
+    "nameWMI": "XBox360 Wireless Gamepad",
+    "type": "xinput",
+    "vidpid": "045e028e"
+  },
+  {
+    "devId": "",
+    "nameDInput": "",
+    "nameWMI": "Razer Sabertooth Gaming Controller (XBOX360)",
+    "type": "xinput",
+    "vidpid": "fe001689"
+  },
+  {
+    "devId": "HID\\VID_258A&PID_00F7&MI_00\\7&6A67D42&0&0000",
+    "nameDInput": "",
+    "nameWMI": "HID Keyboard Device",
+    "type": "directinput",
+    "vidpid": "258a00f7"
+  },
+  {
+    "devId": "USB\\VID_0C45&PID_671F&MI_00\\6&31BBAF0B&0&0000",
+    "nameDInput": "",
+    "nameWMI": "Integrated Webcam",
+    "type": "directinput",
+    "vidpid": "0c45671f"
+  },
+  {
+    "devId": "USB\\VID_413C&PID_301A\\5&23DEF358&0&2",
+    "nameDInput": "",
+    "nameWMI": "USB  ‰»Î…Ë±∏",
+    "type": "directinput",
+    "vidpid": "413c301a"
+  },
+  {
+    "devId": "USB\\VID_0CF3&PID_E009\\5&23DEF358&0&14",
+    "nameDInput": "",
+    "nameWMI": "Qualcomm QCA9377 Bluetooth",
+    "type": "directinput",
+    "vidpid": "0cf3e009"
+  },
+  {
+    "devId": "",
+    "nameDInput": "\tº†\u0006†á",
+    "nameWMI": "",
+    "type": "unknown",
+    "vidpid": "2b606f1d"
+  },
+  {
+    "devId": "",
+    "nameDInput": "\tîÆ\u0007õò",
+    "nameWMI": "",
+    "type": "unknown",
+    "vidpid": "2b616f1d"
+  }
+]

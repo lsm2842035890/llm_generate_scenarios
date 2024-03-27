@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Finalnet_CON.net.xml"/>
+        <route-files value="Route.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="54900"/>
+    </time>
+
+
+</configuration>

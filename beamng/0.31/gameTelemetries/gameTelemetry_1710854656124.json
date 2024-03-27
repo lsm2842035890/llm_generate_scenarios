@@ -1,0 +1,8 @@
+{"Name":"SessionStarted","GFXAdapterType":"Direct3D11","Count":1,"Version":"5","Time":"2024-03-19T13:24:16Z"}
+{"Name":"UIStateUsed","State":"menu.mainmenu","Duration":783.5293042}
+{"Name":"UIStateUsed","State":"menu.levels","Duration":35.1816127}
+{"Name":"UIStateUsed","State":"menu.levelDetails","Duration":23.4822694}
+{"Name":"UIStateUsed","State":"menu.options.performance","Duration":7.9494863}
+{"Name":"UIStateUsed","State":"menu.options.display","Duration":1.3166027}
+{"Name":"UIStateUsed","State":"menu.options.graphics","Duration":2.7244363}
+{"Name":"GameRunning","Duration":854.1836264}

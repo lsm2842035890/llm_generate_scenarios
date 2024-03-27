@@ -1,0 +1,16 @@
+[
+    {
+        "vehicle_id": "Waymo AV",
+        "self_driving": true,
+        "following_vehicle": false,
+        "accelerating_to_overtake": false,
+        "changing_lanes_to_overtake": false
+    },
+    {
+        "vehicle_id": "SUV",
+        "self_driving": false,
+        "following_vehicle": true,
+        "accelerating_to_overtake": false,
+        "changing_lanes_to_overtake": false
+    }
+]

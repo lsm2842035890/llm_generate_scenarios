@@ -1,0 +1,2 @@
+{ "name": "ego_vehicle", "class": "BeamNGVehicle", "persistentId": "e4a0b684-c60e-4353-9b70-f375652e8ccd", "__parent": "example_group", "position": [-717, 101, 118], "dataBlock": "default_vehicle", "jBeam": "etk800", "licenseText": "PYTHON", "rotationMatrix": [0.7071068058785941, -0.7071067564945002, 0.0, 0.7071067564945002, 0.7071068058785941, 0.0, 0.0, 0.0, 1.0], "autoEnterVehicle": false}
+{ "name": "example_group", "class": "SimGroup", "persistentId": "86ba9020-82db-40c5-9460-5e5c435326a5", "groupPosition": "0.000000 0.000000 0.000000"}

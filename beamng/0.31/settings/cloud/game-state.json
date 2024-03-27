@@ -1,0 +1,11 @@
+{
+  "lastLevelName":"automation_test_track",
+  "levels":{
+    "automation_test_track":{
+      "defaultSpawnPointName":"spawns_startingline"
+    },
+    "west_coast_usa":{
+      "defaultSpawnPointName":"spawns_industrial"
+    }
+  }
+}

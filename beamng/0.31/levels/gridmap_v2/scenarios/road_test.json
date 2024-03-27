@@ -1,0 +1,1 @@
+[{"difficulty":0,"name":"road_test","lapConfig":{},"vehicles":{"ego_vehicle":{"startFocus":true,"playerUsable":true}},"authors":"BeamNGpy","prefabs":["levels/gridmap_v2/scenarios/road_test.prefab.json"]}]

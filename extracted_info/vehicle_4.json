@@ -1,0 +1,28 @@
+[
+    {
+        "Vehicle ID": "Waymo AV",
+        "Left Change Lane": false,
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": false,
+        "Speed Up": false,
+        "Emergency Brake": false,
+        "Slow Down": true
+    },
+    {
+        "Vehicle ID": "Heavy Truck",
+        "Left Change Lane": false,
+        "initial speed": null,
+        "initial position": null,
+        "final position": null,
+        "Right Change Lane": false,
+        "Cut In": false,
+        "Overtake": true,
+        "Speed Up": true,
+        "Emergency Brake": false,
+        "Slow Down": false
+    }
+]

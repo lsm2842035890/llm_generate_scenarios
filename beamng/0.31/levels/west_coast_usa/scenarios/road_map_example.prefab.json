@@ -1,0 +1,2 @@
+{ "name": "ego_vehicle", "class": "BeamNGVehicle", "persistentId": "e4a0b684-c60e-4353-9b70-f375652e8ccd", "__parent": "road_map_example_group", "position": [568.908386, 13.4217358, 148.56546], "dataBlock": "default_vehicle", "jBeam": "pickup", "licenseText": "PYTHON", "rotationMatrix": [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0], "autoEnterVehicle": false}
+{ "name": "road_map_example_group", "class": "SimGroup", "persistentId": "f4ea29ac-7b78-4e20-a7fc-fe82eb156d22", "groupPosition": "0.000000 0.000000 0.000000"}
